@@ -14,6 +14,8 @@
 
 This is a simple quiz app built on the React framework. The app outputs 10 questions randomly every time the page loads. Upon answering all of them, the app will let the user know how many correct answers he/she has got.
 
+Find the deployment: https://still-brushlands-34201.herokuapp.com/
+
 ## How to install dependencies
 
 Please use npm install to get the dependencies and npm run to start the app. If run locally, add the following to the script in the package.json for smoother deployment. 
@@ -22,38 +24,22 @@ Please use npm install to get the dependencies and npm run to start the app. If 
 
 ## Usage
 
-Screenshot 1: The application firstly offers the user to input the information of the Manager. Input validation in place for names (number-proof), ID (integer-proof) and email address.
+Screenshot 1: This is the main UI. There are 10 questions randomly displayed with 4 choices. 
 
-![](./img/team1.png)
-
----
-
-Screenshot 2: A t the end of the manager inputs, the user is given the choice to enter the information of either an engineer or an intern, OR to end the input.
-
-![](./img/team2.png)
+![](./img/img1.png)
 
 ---
 
-Screenshot 3: The CLI offers the inputs for the engineer's information (which is slightly different from the one of the Manager). At the end of the input, the user is again offered the choice to keep entering team members or finish the process.
+Screenshot 2: Once the user makes a choice, the remaining options disappear.
 
-![](./img/team3.png)
-
----
-
-Screenshot 4: Once the user hits "I'm Done" the application will generate an HTML file with the data entered. (the design of the website is subject to change)
-
-![](./img/team4.png)
+![](./img/img2.png)
 
 ---
 
-Screenshot 5: Design updated.
+Screenshot 3: Upon completing all questions, it would let the user know the result and offer the option of playing it again.
 
-![](./img/team5.png)
+![](./img/img3.png)
 
-An example of the generated file can be found in the output folder.
-
-Please find the 1-min demo video from the following link:
-https://drive.google.com/file/d/1NDdhohsfm3I2XEX5r4hPfsq2MLNEB4R6/view?usp=sharing
 
 ## License
 

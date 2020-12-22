@@ -45,6 +45,7 @@ body {
   color:white;
   border-radius:10px;
   background:#50cde3;
+  margin: 0 3px;
 }
 
 .twitter-btn:hover {
@@ -144,6 +145,10 @@ body {
   height:40px;
   line-height:40px;
   margin-top: 20px;
+}
+
+.footer a {
+  text-decoration:underline;
 }
 
 @media only screen and (max-width : 768px) {

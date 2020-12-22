@@ -14,7 +14,7 @@
 
 This is a simple quiz app built on the React framework. The app outputs 10 questions randomly every time the page loads. Upon answering all of them, the app will let the user know how many correct answers he/she has got.
 
-Find the deployment: https://still-brushlands-34201.herokuapp.com/
+Find the deployment: https://5fe15ada1c3c2a3240336f7f--gracious-keller-a1ea40.netlify.app/
 
 ## How to install dependencies
 
